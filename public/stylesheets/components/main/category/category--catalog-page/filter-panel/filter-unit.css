@@ -1,0 +1,7 @@
+.filter-unit__name-label { font-size: 20px; line-height: 30px; font-weight: bold; }
+
+.filter-unit__parameters-list { margin-top: 7px; margin-bottom: 5px; }
+
+.filter-unit__parameter { margin-left: 3px; margin-bottom: 5px; }
+
+.filter-unit__checkbox { margin-right: 8px; }

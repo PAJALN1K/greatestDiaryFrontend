@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "cursor-selection.css",
+	"sources": [
+		"../../../../src/components/abstract/cursor-selection.scss"
+	],
+	"sourcesContent": [
+		"*::selection {\r\n  background: #E4B61A;\r\n  color: #2a2e34;\r\n}\r\n\r\n*::-moz-selection {\r\n  background: #E4B61A;\r\n  color: #2a2e34;\r\n}\r\n\r\n*::-webkit-selection {\r\n  background: #E4B61A;\r\n  color: #2a2e34;\r\n} "
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,CAAC,AAAA,WAAW,CAAC;EACX,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,OAAO;CACf;;;AAED,AAAA,CAAC,AAAA,gBAAgB,CAAC;EAChB,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,OAAO;CACf;;;AAED,AAAA,CAAC,AAAA,mBAAmB,CAAC;EACnB,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,OAAO;CACf"
+}

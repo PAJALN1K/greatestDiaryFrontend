@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "continue-shopping-button.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--shopping-cart-page/cart-buttons/continue-shopping-button.scss"
+	],
+	"sourcesContent": [
+		".continue-shopping-button {\r\n    background-color: #888;\r\n    width: 100%;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,yBAAyB,CAAC;EACtB,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,IAAI;CACd"
+}

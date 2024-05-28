@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "auth-page__checkbox-text.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--auth-page/auth-page__form/auth-page__checkbox-text.scss"
+	],
+	"sourcesContent": [
+		".auth-page__checkbox-text {\r\n    font-family: 'Merriweather';\r\n\r\n    font-size: 18px;\r\n    line-height: 27px;\r\n\r\n    font-weight: 400;\r\n    font-style: normal;\r\n\r\n    text-align: center;\r\n\r\n    color: #111;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,yBAAyB,CAAC;EACtB,WAAW,EAAE,cAAc;EAE3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EAEjB,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;EAElB,UAAU,EAAE,MAAM;EAElB,KAAK,EAAE,IAAI;CACd"
+}

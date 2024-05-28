@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "profile-button.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--profile-page/profile-buttons/profile-button.scss"
+	],
+	"sourcesContent": [
+		".profile-button {\r\n    color: #B41818;\r\n    font-family: 'Merriweather';\r\n    font-size: 21px;\r\n    line-height: 33px; \r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,eAAe,CAAC;EACZ,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB"
+}

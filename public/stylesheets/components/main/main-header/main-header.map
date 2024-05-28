@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main-header.css",
+	"sources": [
+		"../../../../../src/components/main/main-header/main-header.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}

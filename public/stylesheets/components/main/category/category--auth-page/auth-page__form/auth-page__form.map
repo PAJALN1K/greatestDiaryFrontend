@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "auth-page__form.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--auth-page/auth-page__form/auth-page__form.scss"
+	],
+	"sourcesContent": [
+		".auth-page__form {\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 15px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,gBAAgB,CAAC;EACb,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAE,IAAI;CACZ"
+}

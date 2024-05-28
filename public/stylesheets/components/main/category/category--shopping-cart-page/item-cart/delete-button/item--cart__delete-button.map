@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "item--cart__delete-button.css",
+	"sources": [
+		"../../../../../../../../src/components/main/category/category--shopping-cart-page/item-cart/delete-button/item--cart__delete-button.scss"
+	],
+	"sourcesContent": [
+		".item--cart__delete-button {\r\n    border: none;\r\n    fill: none;\r\n    background-image: url(\"delete-button__img.svg\");\r\n    background-size: cover;\r\n    width: 30px;\r\n    height: 35px;\r\n\r\n    transition: background-image 0.2s;\r\n\r\n    &:hover {\r\n        background-image: url(\"delete-button__img_red.svg\");\r\n        cursor: pointer;\r\n    }\r\n\r\n    &:active {\r\n        transform: scale(0.95);\r\n      }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,0BAA0B,CAAC;EACvB,MAAM,EAAE,IAAI;EACZ,IAAI,EAAE,IAAI;EACV,gBAAgB,EAAE,6BAA6B;EAC/C,eAAe,EAAE,KAAK;EACtB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EAEZ,UAAU,EAAE,qBAAqB;CAUpC;;;AAlBD,AAUI,0BAVsB,AAUrB,MAAM,CAAC;EACJ,gBAAgB,EAAE,iCAAiC;EACnD,MAAM,EAAE,OAAO;CAClB;;;AAbL,AAeI,0BAfsB,AAerB,OAAO,CAAC;EACL,SAAS,EAAE,WAAW;CACvB"
+}

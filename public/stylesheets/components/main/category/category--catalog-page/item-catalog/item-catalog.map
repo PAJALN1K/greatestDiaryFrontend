@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "item-catalog.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--catalog-page/item-catalog/item-catalog.scss"
+	],
+	"sourcesContent": [
+		".item-catalog {\r\n    flex-basis: 80%;\r\n    height: 100%;\r\n\r\n    display: flex;\r\n    flex-direction: row;\r\n    flex-wrap: wrap;\r\n    align-items: flex-start;\r\n    gap: 4%;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,aAAa,CAAC;EACV,UAAU,EAAE,GAAG;EACf,MAAM,EAAE,IAAI;EAEZ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,UAAU;EACvB,GAAG,EAAE,EAAE;CACV"
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "result-price.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--shopping-cart-page/result-price/result-price.scss"
+	],
+	"sourcesContent": [
+		".result-price {\r\n    align-self: flex-end;\r\n    \r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: flex-start;\r\n    align-items: baseline;\r\n    gap: 15px;\r\n\r\n    font-weight: bold;\r\n    \r\n    margin-top: 30px;\r\n    margin-bottom: 15px; \r\n\r\n    &__number {\r\n        color: #B41818;\r\n        font-family: 'Merriweather';\r\n        font-size: 28px;\r\n        line-height: 42px;\r\n    }\r\n\r\n    &__name-label {\r\n        color: #111;\r\n        font-family: 'Merriweather';\r\n        font-size: 20px;\r\n        line-height: 28px;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,aAAa,CAAC;EACV,UAAU,EAAE,QAAQ;EAEpB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,eAAe,EAAE,UAAU;EAC3B,WAAW,EAAE,QAAQ;EACrB,GAAG,EAAE,IAAI;EAET,WAAW,EAAE,IAAI;EAEjB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;CAetB;;;AAbI,AAAD,qBAAS,CAAC;EACN,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB;;;AAEA,AAAD,yBAAa,CAAC;EACV,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB"
+}

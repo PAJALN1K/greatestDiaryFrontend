@@ -1,0 +1,21 @@
+// Наиболее общие сущности (обнуление всех стилей), абстрактные в принципе сущности (изменение курсора)
+@import url(components/abstract/null-style.css);
+@import url(components/abstract/greatest-diary-page.css);
+@import url(components/abstract/noselect.css);
+@import url(components/abstract/hidden.css);
+@import url(components/abstract/cursor-selection.css);
+
+
+// Блоки в main
+@import url(components/main/main.css);
+@import url(components/main/home/home.css);
+@import url(components/main/home/home-logo.css);
+@import url(components/main/registration/registration.css);
+@import url(components/main/authorization/authorization.css);
+@import url(components/main/explanation/explanation.css);
+@import url(components/main/account/account.css);
+
+
+// Часто используемые во всех 
+@import url(components/common/submit-button.css);
+@import url(components/common/logo/logo.css);

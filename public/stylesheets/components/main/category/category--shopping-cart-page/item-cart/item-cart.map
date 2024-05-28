@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "item-cart.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--shopping-cart-page/item-cart/item-cart.scss"
+	],
+	"sourcesContent": [
+		".item-cart {\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 35px;\r\n    \r\n    width: 100%;\r\n    padding-bottom: 25px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAE,IAAI;EAET,KAAK,EAAE,IAAI;EACX,cAAc,EAAE,IAAI;CACvB"
+}

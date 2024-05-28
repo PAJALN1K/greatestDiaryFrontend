@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "item--cart.css",
+	"sources": [
+		"../../../../../../../../src/components/main/category/category--shopping-cart-page/item-cart/item--cart/item--cart.scss"
+	],
+	"sourcesContent": [
+		".item--cart {\r\n    width: 100%;\r\n    display: flex;\r\n    justify-content: row;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n\r\n    color: #111;\r\n    font-family: 'Merriweather';\r\n    font-size: 18px;\r\n    line-height: 27px; \r\n\r\n    &__row {\r\n        display: flex;\r\n        justify-content: row;\r\n        align-items: center;\r\n        gap: 25px;\r\n    }\r\n\r\n    &__img {\r\n        width: 200px;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,WAAW,CAAC;EACR,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,GAAG;EACpB,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;EAEnB,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CAYpB;;;AAVI,AAAD,gBAAM,CAAC;EACH,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,GAAG;EACpB,WAAW,EAAE,MAAM;EACnB,GAAG,EAAE,IAAI;CACZ;;;AAEA,AAAD,gBAAM,CAAC;EACH,KAAK,EAAE,KAAK;CACf"
+}

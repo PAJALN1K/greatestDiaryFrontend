@@ -1,0 +1,13 @@
+.registration { display: flex; flex-direction: column; justify-content: center; align-items: center; }
+
+.registration__form { display: flex; flex-direction: column; align-items: center; }
+
+.registration__field { display: flex; flex-direction: column; align-items: center; margin-bottom: 15px; }
+
+.registration__name-label { color: #e9eaec; font-size: 20px; line-height: 30px; font-family: 'Trebuchet MS'; margin-bottom: 5px; }
+
+.registration__input { box-sizing: border-box; width: 300px; height: 45px; padding-left: 15px; border-radius: 5px; background-color: #495057; color: #adb5bd; font-family: 'Trebuchet MS'; font-size: 18px; vertical-align: middle; }
+
+.registration__submit { margin-top: 5px; margin-bottom: 6px; }
+
+.registration__auth-link { font-size: 14px; line-height: 21px; font-family: 'Trebuchet MS'; color: #e4b61a; text-decoration: underline; }

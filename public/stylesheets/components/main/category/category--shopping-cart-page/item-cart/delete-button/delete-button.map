@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "delete-button.css",
+	"sources": [
+		"../../../../../../../../src/components/main/category/category--shopping-cart-page/item-cart/delete-button/delete-button.scss"
+	],
+	"sourcesContent": [
+		".delete-button__img {\r\n    width: 30px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,mBAAmB,CAAC;EAChB,KAAK,EAAE,IAAI;CACd"
+}

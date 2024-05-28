@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "page-headline.css",
+	"sources": [
+		"../../../../../../src/components/main/main-header/page-headline/page-headline.scss"
+	],
+	"sourcesContent": [
+		".page-headline {\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: flex-start;\r\n    align-items: baseline;\r\n    gap: 15px;\r\n\r\n    &__count {\r\n        color: #888;\r\n        font-family: 'Merriweather';\r\n        font-size: 24px;\r\n        font-weight: 400;\r\n        line-height: 36px;\r\n    }\r\n\r\n    &__name-label {\r\n        color: #111;\r\n        font-family: 'Merriweather';\r\n        \r\n        font-size: 48px;\r\n        line-height: 68px;\r\n\r\n        margin-top: 35px;\r\n        margin-bottom: 15px; \r\n    }\r\n\r\n    &__name-label--item-page {\r\n        font-size: 32px; \r\n        line-height: 42px;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,cAAc,CAAC;EACX,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,eAAe,EAAE,UAAU;EAC3B,WAAW,EAAE,QAAQ;EACrB,GAAG,EAAE,IAAI;CAyBZ;;;AAvBI,AAAD,qBAAQ,CAAC;EACL,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,IAAI;CACpB;;;AAEA,AAAD,0BAAa,CAAC;EACV,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAE3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EAEjB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;CACtB;;;AAEA,AAAD,qCAAwB,CAAC;EACrB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB"
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "filter-unit.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--catalog-page/filter-panel/filter-unit.scss"
+	],
+	"sourcesContent": [
+		".filter-unit {\r\n    &__name-label {\r\n        font-size: 20px;\r\n        line-height: 30px;\r\n        font-weight: bold;\r\n    }\r\n\r\n    &__parameters-list {\r\n        margin-top: 7px;\r\n        margin-bottom: 5px;\r\n    }\r\n\r\n    &__parameter {\r\n        margin-left: 3px;\r\n        margin-bottom: 5px;\r\n    }\r\n\r\n    &__checkbox {\r\n        margin-right: 8px;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AACK,AAAD,wBAAa,CAAC;EACV,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,WAAW,EAAE,IAAI;CACpB;;;AAEA,AAAD,6BAAkB,CAAC;EACf,UAAU,EAAE,GAAG;EACf,aAAa,EAAE,GAAG;CACrB;;;AAEA,AAAD,uBAAY,CAAC;EACT,WAAW,EAAE,GAAG;EAChB,aAAa,EAAE,GAAG;CACrB;;;AAEA,AAAD,sBAAW,CAAC;EACR,YAAY,EAAE,GAAG;CACpB"
+}

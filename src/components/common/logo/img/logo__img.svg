@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Happy.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6109933"
+     inkscape:cx="69.558864"
+     inkscape:cy="367.43447"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icons" />
+  <title
+     id="title1">emoji_happy_circle [#546]</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Dribbble-Light-Preview"
+       transform="translate(-140.000000, -5799.000000)"
+       fill="#000000">
+      <g
+         id="icons"
+         transform="translate(56.000000, 160.000000)">
+        <path
+           style="fill:#e4b61a;stroke-width:0.0250393"
+           id="path1"
+           sodipodi:type="arc"
+           sodipodi:cx="93.983742"
+           sodipodi:cy="5649.0249"
+           sodipodi:rx="9.8609915"
+           sodipodi:ry="9.8609915"
+           sodipodi:start="0"
+           sodipodi:end="6.2829164"
+           sodipodi:arc-type="slice"
+           d="m 103.84473,5649.0249 a 9.8609915,9.8609915 0 0 1 -9.860325,9.861 9.8609915,9.8609915 0 0 1 -9.861655,-9.8597 9.8609915,9.8609915 0 0 1 9.859003,-9.8623 9.8609915,9.8609915 0 0 1 9.862977,9.8584 l -9.860988,0 z" />
+        <path
+           d="M100,5646.415 L100,5648.415 C100,5648.967 99.552,5649.415 99,5649.415 L97,5649.415 C96.45,5649.415 96,5648.965 96,5648.415 L96,5646.415 C96,5645.863 96.448,5645.415 97,5645.415 L99,5645.415 C99.552,5645.415 100,5645.863 100,5646.415 L100,5646.415 Z M89,5649.415 C88.45,5649.415 88,5648.965 88,5648.415 L88,5646.415 C88,5645.863 88.448,5645.415 89,5645.415 L91,5645.415 C91.552,5645.415 92,5645.863 92,5646.415 L92,5648.415 C92,5648.967 91.552,5649.415 91,5649.415 L89,5649.415 Z M89,5650.415 L99,5650.415 C99,5657.415 89,5657.415 89,5650.415 L89,5650.415 Z M94,5657 C89.589,5657 86,5653.411 86,5649 C86,5644.589 89.589,5641 94,5641 C98.411,5641 102,5644.589 102,5649 C102,5653.411 98.411,5657 94,5657 L94,5657 Z M94,5639 C88.477,5639 84,5643.477 84,5649 C84,5654.523 88.477,5659 94,5659 C99.523,5659 104,5654.523 104,5649 C104,5643.477 99.523,5639 94,5639 L94,5639 Z"
+           id="emoji_happy_circle-[#546]" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>emoji_happy_circle [#546]</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

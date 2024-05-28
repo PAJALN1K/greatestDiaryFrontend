@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "website-breadcrumbs.css",
+	"sources": [
+		"../../../../../../src/components/main/main-header/website-breadcrumbs/website-breadcrumbs.scss"
+	],
+	"sourcesContent": [
+		".website-breadcrumbs {\r\n    &__item {\r\n        font-family: 'Merriweather';\r\n    \r\n        font-size: 18px;\r\n        line-height: 27px;\r\n    \r\n        font-weight: 400;\r\n        font-style: normal;\r\n    \r\n        text-align: center;\r\n    }\r\n\r\n    &__item--previous::after {\r\n        content: \"/\";\r\n        margin-left: 20px;\r\n    }\r\n\r\n    &__current-dir {\r\n        color: #333;\r\n    }\r\n\r\n    &__list {\r\n        display: flex;\r\n        flex-direction: row;\r\n        gap: 20px;\r\n\r\n        margin-top: 60px;\r\n        padding: 0;\r\n\r\n        list-style-type: none;\r\n    }\r\n\r\n    &__previous-dir {\r\n        color: #888;\r\n        text-decoration: underline;\r\n    }\r\n\r\n    &__previous-dir:hover {\r\n        color: #B41818;\r\n        text-decoration: none;\r\n    }\r\n}"
+	],
+	"names": [],
+	"mappings": ";AACK,AAAD,0BAAO,CAAC;EACJ,WAAW,EAAE,cAAc;EAE3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EAEjB,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;EAElB,UAAU,EAAE,MAAM;CACrB;;;AAEA,AAAD,oCAAiB,AAAA,OAAO,CAAC;EACrB,OAAO,EAAE,GAAG;EACZ,WAAW,EAAE,IAAI;CACpB;;;AAEA,AAAD,iCAAc,CAAC;EACX,KAAK,EAAE,IAAI;CACd;;;AAEA,AAAD,0BAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,GAAG,EAAE,IAAI;EAET,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,CAAC;EAEV,eAAe,EAAE,IAAI;CACxB;;;AAEA,AAAD,kCAAe,CAAC;EACZ,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,SAAS;CAC7B;;;AAEA,AAAD,kCAAe,AAAA,MAAM,CAAC;EAClB,KAAK,EAAE,OAAO;EACd,eAAe,EAAE,IAAI;CACxB"
+}

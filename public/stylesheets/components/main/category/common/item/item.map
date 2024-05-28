@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "item.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/common/item/item.scss"
+	],
+	"sourcesContent": [
+		".item {\r\n    &__price-label {\r\n        font-weight: bold;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AACK,AAAD,kBAAc,CAAC;EACX,WAAW,EAAE,IAAI;CACpB"
+}

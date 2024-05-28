@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "item--catalog.css",
+	"sources": [
+		"../../../../../../../../src/components/main/category/category--catalog-page/item-catalog/item--catalog/item--catalog.scss"
+	],
+	"sourcesContent": [
+		".item--catalog {\r\n    border-radius: 10px;\r\n    background-color: #fff;\r\n\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    \r\n    box-sizing: border-box;\r\n    \r\n    width: 22%;\r\n    height: 400px;\r\n\r\n    padding: 20px 0;\r\n    margin-bottom: 25px;\r\n\r\n    color: #111;\r\n    font-family: 'Merriweather';\r\n    font-size: 18px;\r\n    line-height: 27px; \r\n\r\n    &__img {\r\n        width: 100%;\r\n        height: 160px;\r\n    }\r\n\r\n    &__purchase-button {\r\n        height: 40px;\r\n        width: 100%;\r\n\r\n        font-size: 16px;\r\n        line-height: 24px; \r\n    }\r\n\r\n    &__row:first-child {\r\n        flex-basis: 85%;\r\n\r\n        display: flex;\r\n        flex-direction: column;\r\n        justify-content: space-between;\r\n        align-items: center;\r\n\r\n        text-align: center;\r\n        margin: 0px 10px;\r\n    }\r\n\r\n    &__row:last-child {\r\n        width: 80%;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,cAAc,CAAC;EACX,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,IAAI;EAEtB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;EAEnB,UAAU,EAAE,UAAU;EAEtB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,KAAK;EAEb,OAAO,EAAE,MAAM;EACf,aAAa,EAAE,IAAI;EAEnB,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CA8BpB;;;AA5BI,AAAD,mBAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CAChB;;;AAEA,AAAD,+BAAkB,CAAC;EACf,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EAEX,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB;;;AAEA,AAAD,mBAAM,AAAA,YAAY,CAAC;EACf,UAAU,EAAE,GAAG;EAEf,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;EAEnB,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,QAAQ;CACnB;;;AAEA,AAAD,mBAAM,AAAA,WAAW,CAAC;EACd,KAAK,EAAE,GAAG;CACb"
+}
