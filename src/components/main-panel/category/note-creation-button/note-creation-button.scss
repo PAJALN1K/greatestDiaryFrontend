@@ -1,0 +1,13 @@
+.note-creation-button {
+    &__container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3.5px;
+    }
+    
+    &__img {
+        height: 25px;
+        width: 25px;
+    }
+}

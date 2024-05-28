@@ -1,0 +1,11 @@
+.website-menu { display: flex; justify-content: center; align-items: center; }
+
+.website-menu__list { display: flex; flex-direction: column; justify-content: flex-start; align-items: center; gap: 7px; }
+
+.website-menu__item { display: flex; justify-content: center; align-items: center; }
+
+.website-menu__item:first-child { margin-bottom: 25px; }
+
+.website-menu__link { display: flex; justify-content: center; align-items: center; }
+
+.website-menu__img { text-align: center; vertical-align: middle; width: 35px; height: 35px; }

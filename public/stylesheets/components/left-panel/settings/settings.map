@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "settings.css",
+	"sources": [
+		"../../../../../src/components/left-panel/settings/settings.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
