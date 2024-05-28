@@ -1,0 +1,23 @@
+.item-paged { display: flex; flex-direction: row; justify-content: space-between; }
+
+.item-paged__characteristics-definition { margin-inline-start: 0px; padding: 5px 0px; }
+
+.item-paged__characteristics-list { margin: 10px 0; color: #111; font-family: 'Merriweather'; font-size: 18px; line-height: 27px; }
+
+.item-paged__availability-label { display: flex; align-items: center; gap: 10px; color: #111; font-family: 'Merriweather'; font-size: 18px; line-height: 27px; }
+
+.item-paged__img { width: 560px; }
+
+.item-paged__characteristics-term { float: left; margin: 0px 5px 0px 0px; padding: 5px 0px; }
+
+.item-paged__column { display: flex; flex-direction: column; flex-basis: 48%; }
+
+.item-paged__column:last-child { align-items: center; justify-content: center; gap: 20px; }
+
+.item-paged__characteristics-term::after { content: ': '; }
+
+.item-paged__name-label { color: #111; font-family: 'Merriweather'; font-size: 28px; line-height: 40px; margin-top: 10px; margin-bottom: 10px; }
+
+.item-paged__price-label { color: #111; font-family: 'Merriweather'; font-size: 22px; line-height: 33px; }
+
+.item-paged__purchase-row { display: flex; justify-content: center; align-items: center; gap: 25px; }

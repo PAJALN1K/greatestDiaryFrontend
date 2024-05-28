@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "category--auth-page.css",
+	"sources": [
+		"../../../../../../src/components/main/category/category--auth-page/category--auth-page.scss"
+	],
+	"sourcesContent": [
+		".category--auth-page {\r\n    display: flex;\r\n    flex-direction: row;\r\n    width: 100%;\r\n    justify-content: space-evenly;\r\n\r\n    padding-top: 20px;\r\n    padding-bottom: 90px;\r\n    margin-right: 15%;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,oBAAoB,CAAC;EACjB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,YAAY;EAE7B,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,YAAY,EAAE,GAAG;CACpB"
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../../../../src/components/main/main.scss"
+	],
+	"sourcesContent": [
+		".main {\r\n    background-color: #F3F3F3;\r\n    color: #111;\r\n\r\n    &__container {\r\n        margin: 0 auto;\r\n        padding-bottom: 10px;\r\n        width: 80%;\r\n\r\n        display: flex;\r\n        flex-direction: column;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,KAAK,CAAC;EACF,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,IAAI;CAUd;;;AARI,AAAD,gBAAY,CAAC;EACT,MAAM,EAAE,MAAM;EACd,cAAc,EAAE,IAAI;EACpB,KAAK,EAAE,GAAG;EAEV,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CACzB"
+}

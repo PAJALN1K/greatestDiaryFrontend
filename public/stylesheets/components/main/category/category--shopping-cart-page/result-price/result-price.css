@@ -1,0 +1,5 @@
+.result-price { align-self: flex-end; display: flex; flex-direction: row; justify-content: flex-start; align-items: baseline; gap: 15px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; }
+
+.result-price__number { color: #B41818; font-family: 'Merriweather'; font-size: 28px; line-height: 42px; }
+
+.result-price__name-label { color: #111; font-family: 'Merriweather'; font-size: 20px; line-height: 28px; }

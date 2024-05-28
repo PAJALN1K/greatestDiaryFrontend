@@ -1,0 +1,7 @@
+.home__ad { display: flex; flex-direction: column; justify-content: center; align-items: center; }
+
+.home__slogan { font-family: 'PT Serif'; font-size: 28px; line-height: 42px; margin-bottom: 20px; }
+
+.home__buttons { display: flex; flex-direction: row; justify-content: space-around; align-items: center; gap: 15px; }
+
+.home__button { display: flex; justify-content: center; align-items: center; }

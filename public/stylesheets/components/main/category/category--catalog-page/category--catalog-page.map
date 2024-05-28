@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "category--catalog-page.css",
+	"sources": [
+		"../../../../../../src/components/main/category/category--catalog-page/category--catalog-page.scss"
+	],
+	"sourcesContent": [
+		".category--catalog-page {\r\n    flex-direction: row;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,uBAAuB,CAAC;EACpB,cAAc,EAAE,GAAG;CACtB"
+}

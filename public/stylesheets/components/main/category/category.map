@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "category.css",
+	"sources": [
+		"../../../../../src/components/main/category/category.scss"
+	],
+	"sourcesContent": [
+		".category {\r\n    display: flex;\r\n    \r\n    padding-top: 20px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,IAAI;EAEb,WAAW,EAAE,IAAI;CACpB"
+}

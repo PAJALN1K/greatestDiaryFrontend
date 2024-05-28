@@ -1,0 +1,5 @@
+.item--cart { width: 100%; display: flex; justify-content: row; justify-content: space-between; align-items: center; color: #111; font-family: 'Merriweather'; font-size: 18px; line-height: 27px; }
+
+.item--cart__row { display: flex; justify-content: row; align-items: center; gap: 25px; }
+
+.item--cart__img { width: 200px; }

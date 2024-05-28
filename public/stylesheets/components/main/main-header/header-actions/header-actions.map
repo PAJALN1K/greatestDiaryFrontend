@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "header-actions.css",
+	"sources": [
+		"../../../../../../src/components/main/main-header/header-actions/header-actions.scss"
+	],
+	"sourcesContent": [
+		".header-actions {\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,eAAe,CAAC;EACZ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;CACtB"
+}

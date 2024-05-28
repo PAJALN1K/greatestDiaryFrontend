@@ -1,0 +1,27 @@
+.submit-button {
+    display: block;
+    
+    height: 40px;
+    min-height: 40px;
+    width: 240px;
+
+    background-color: #fbe134;
+    border: none;
+    border-radius: 20px;
+
+    margin: 0;
+    padding: 0;
+
+    font-size: 16px;
+    font-family: 'Trebuchet MS';
+    line-height: 24px; 
+    text-align: center;
+    color: #0b0c0c;
+
+    transition: background-color 0.35s ease;
+
+    &:hover {
+        background-color: #e4b61a;
+        cursor: pointer;
+    }
+}

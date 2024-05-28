@@ -1,0 +1,9 @@
+.logo__link-container { display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 8px; }
+
+.logo__name-label--img { height: 36px; }
+
+.logo__name-label { color: #B41818; font-family: 'Odor Mean Chey'; font-size: 50px; line-height: 70px; font-weight: 400; font-style: normal; text-align: center; letter-spacing: -1.5px; text-transform: uppercase; margin-top: 6px; }
+
+.logo__img { width: 120px; height: 120px; }
+
+.logo__copyright-label { margin-bottom: 0px; color: #fff; font-family: 'Merriweather'; font-size: 14px; line-height: 21px; }

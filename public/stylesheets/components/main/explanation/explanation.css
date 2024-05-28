@@ -1,0 +1,9 @@
+.explanation { display: flex; flex-direction: column; justify-content: center; align-items: center; }
+
+.explanation__header { color: #e9eaec; font-family: 'Trebuchet MS'; }
+
+.explanation__paragraph { color: #adb5bd; font-family: 'PT Serif'; font-size: 18px; line-height: 24px; }
+
+.explanation__header--oops-header { font-size: 128px; line-height: 134px; }
+
+.explanation__header--name-label { font-size: 60px; line-height: 68px; margin-top: 0px; margin-bottom: 30px; }

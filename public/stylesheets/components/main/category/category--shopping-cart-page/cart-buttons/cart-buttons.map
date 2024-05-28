@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "cart-buttons.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--shopping-cart-page/cart-buttons/cart-buttons.scss"
+	],
+	"sourcesContent": [
+		".cart-buttons {\r\n    display: flex;\r\n    flex-direction: row;\r\n    gap: 25px;\r\n\r\n    padding-bottom: 50px;\r\n\r\n    width: 48%;\r\n    align-self: flex-end;\r\n\r\n    margin-bottom: 100px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,aAAa,CAAC;EACV,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,GAAG,EAAE,IAAI;EAET,cAAc,EAAE,IAAI;EAEpB,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,QAAQ;EAEpB,aAAa,EAAE,KAAK;CACvB"
+}

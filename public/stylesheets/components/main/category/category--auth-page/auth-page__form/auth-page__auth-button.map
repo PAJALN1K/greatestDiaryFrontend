@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "auth-page__auth-button.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--auth-page/auth-page__form/auth-page__auth-button.scss"
+	],
+	"sourcesContent": [
+		".auth-page__auth-button {\r\n    width: 100%;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,uBAAuB,CAAC;EACpB,KAAK,EAAE,IAAI;CACd"
+}

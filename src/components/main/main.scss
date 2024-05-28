@@ -1,0 +1,24 @@
+.main {
+    height: 100%;
+    width: 100%;
+    background-color: #2A2E34;
+    color: #e9eaec;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &__container {
+        height: 100%;
+        width: 100%;
+
+        margin: 0 auto;
+        padding-bottom: 30px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

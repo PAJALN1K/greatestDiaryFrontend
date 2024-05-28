@@ -1,0 +1,9 @@
+.home-logo { display: flex; flex-direction: row; align-items: center; gap: 50px; margin-bottom: 15px; }
+
+.home-logo__name-label { font-family: "Trebuchet MS"; font-size: 50px; line-height: 57px; font-stretch: extra-expanded; text-transform: uppercase; }
+
+.home-logo__greatest-word { color: #e4b61a; }
+
+.home-logo__diary-word { color: #fbe134; }
+
+.home-logo__img { height: 225px; width: 225px; }

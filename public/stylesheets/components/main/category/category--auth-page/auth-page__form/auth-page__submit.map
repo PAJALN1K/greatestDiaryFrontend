@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "auth-page__submit.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--auth-page/auth-page__form/auth-page__submit.scss"
+	],
+	"sourcesContent": [
+		".auth-page__submit {\r\n    width: 100%;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,kBAAkB,CAAC;EACf,KAAK,EAAE,IAAI;CACd"
+}

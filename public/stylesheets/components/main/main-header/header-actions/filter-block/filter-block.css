@@ -1,0 +1,5 @@
+.filter-block { display: flex; align-items: center; gap: 10px; }
+
+.filter-block__img { width: 30px; height: 30px; }
+
+.filter-block__name-label { color: #111; font-family: 'Merriweather'; font-size: 20px; line-height: 30px; }

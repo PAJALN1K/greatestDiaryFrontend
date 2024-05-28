@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "filter-block.css",
+	"sources": [
+		"../../../../../../../src/components/main/main-header/header-actions/filter-block/filter-block.scss"
+	],
+	"sourcesContent": [
+		".filter-block {\r\n    display: flex;\r\n    align-items: center;\r\n    gap: 10px;\r\n\r\n    &__img {\r\n        width: 30px;\r\n        height: 30px;\r\n    }\r\n    \r\n    &__name-label {\r\n        color: #111;\r\n        font-family: 'Merriweather';\r\n        font-size: 20px;\r\n        line-height: 30px;\r\n    }\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,aAAa,CAAC;EACV,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,GAAG,EAAE,IAAI;CAaZ;;;AAXI,AAAD,kBAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;;AAEA,AAAD,yBAAa,CAAC;EACV,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB"
+}

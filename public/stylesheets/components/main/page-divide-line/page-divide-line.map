@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "page-divide-line.css",
+	"sources": [
+		"../../../../../src/components/main/page-divide-line/page-divide-line.scss"
+	],
+	"sourcesContent": [
+		".page-divide-line {\r\n    border: 0;\r\n    clear: both;\r\n    display: block;\r\n    width: 100%;               \r\n    background-color:#888;\r\n    height: 1px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,iBAAiB,CAAC;EACd,MAAM,EAAE,CAAC;EACT,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAC,IAAI;EACrB,MAAM,EAAE,GAAG;CACd"
+}

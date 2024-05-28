@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "filter-panel.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--catalog-page/filter-panel/filter-panel.scss"
+	],
+	"sourcesContent": [
+		".filter-panel {\r\n    flex-basis: 20%;\r\n\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 15px;\r\n\r\n    color: #111;\r\n    font-family: 'Merriweather';\r\n    font-size: 18px;\r\n    line-height: 27px;\r\n\r\n    margin-top: 10px;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,aAAa,CAAC;EACV,UAAU,EAAE,GAAG;EAEf,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAE,IAAI;EAET,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,cAAc;EAC3B,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EAEjB,UAAU,EAAE,IAAI;CACnB"
+}

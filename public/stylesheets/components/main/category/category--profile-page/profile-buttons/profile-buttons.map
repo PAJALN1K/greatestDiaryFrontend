@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "profile-buttons.css",
+	"sources": [
+		"../../../../../../../src/components/main/category/category--profile-page/profile-buttons/profile-buttons.scss"
+	],
+	"sourcesContent": [
+		".profile-buttons {\r\n    display: flex;\r\n    flex-direction: row;\r\n    gap: 50px;\r\n\r\n    margin-bottom: 180px;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,gBAAgB,CAAC;EACb,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,GAAG,EAAE,IAAI;EAET,aAAa,EAAE,KAAK;CACvB"
+}

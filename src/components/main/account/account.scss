@@ -1,0 +1,54 @@
+.account {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    margin-top: 30px;
+
+    &__row {
+        display: flex;
+        flex-direction:row;
+        justify-content: flex-start;
+        align-items: center;
+        text-align:end;
+        gap: 8px;
+    }
+
+    &__header {
+        color: #e9eaec;
+        font-family: 'Trebuchet MS';
+        font-size: 40px;
+        line-height: 50px;
+
+        margin-bottom: 12px;
+    }
+
+    &__row-label {
+        color: #e9eaec;
+        color: #adb5bd;
+        font-family: 'Trebuchet MS';
+        font-size: 20px;
+        line-height: 27px;
+        text-decoration: underline;
+    }
+
+    &__row-value {
+        color: #e9eaec;
+        font-family: 'Trebuchet MS';
+        font-size: 20px;
+        line-height: 27px;
+    }
+}
+
+.logout-button {
+    color: #e4b61a;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: underline;
+
+    &:hover {
+        text-decoration: none;
+    }
+}

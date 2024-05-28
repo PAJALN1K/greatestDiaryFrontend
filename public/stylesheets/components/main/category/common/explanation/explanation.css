@@ -1,0 +1,9 @@
+.explanation { display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 80px 0px 150px; }
+
+.explanation__header { color: #111; font-family: 'Merriweather'; /*      margin-top: 60px ; margin-bottom: 15px;  */ }
+
+.explanation__paragraph { color: #555; font-family: 'Merriweather'; }
+
+.explanation__header--oops-header { font-size: 128px; line-height: 134px; }
+
+.explanation__header--name-label { font-size: 60px; line-height: 68px; margin-top: 0px; margin-bottom: 55px; }

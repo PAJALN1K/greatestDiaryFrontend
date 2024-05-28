@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "greatest-diary-page.css",
+	"sources": [
+		"../../../../src/components/abstract/greatest-diary-page.scss"
+	],
+	"sourcesContent": [
+		".greatest-diary-page {\r\n    height: 100%;\r\n    width: 100%;\r\n\r\n    display: flex;\r\n    flex-direction: row;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,oBAAoB,CAAC;EACjB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EAEX,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;CACtB"
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "noselect.css",
+	"sources": [
+		"../../../../src/components/abstract/noselect.scss"
+	],
+	"sourcesContent": [
+		".noselect {\r\n\t-webkit-user-select: none;\r\n\t-khtml-user-select: none;\r\n\t-moz-user-select: none;\r\n\t-ms-user-select: none;\r\n\tuser-select: none;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACT,mBAAmB,EAAE,IAAI;EACzB,kBAAkB,EAAE,IAAI;EACxB,gBAAgB,EAAE,IAAI;EACtB,eAAe,EAAE,IAAI;EACrB,WAAW,EAAE,IAAI;CACjB"
+}
