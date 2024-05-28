@@ -1,0 +1,15 @@
+.note-popup { width: 44%; min-height: 48%; max-height: 92%; border-radius: 12px; background-color: #495057; padding: 25px 40px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; gap: 15px; }
+
+.note-popup__input { box-sizing: border-box; padding-left: 15px; border-radius: 5px; background-color: #343a40; color: #adb5bd; }
+
+.note-popup__head { width: 100%; display: flex; flex-direction: row; justify-content: space-between; align-items: center; }
+
+.note-popup__meta { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; color: #ced4da; font-family: 'Trebuchet MS'; font-size: 18px; vertical-align: middle; }
+
+.note-popup__date { width: 500px; height: 35px; line-height: 24px; font-size: 20px; }
+
+.note-popup__location { width: 500px; height: 35px; line-height: 24px; font-size: 20px; }
+
+.note-popup__emoji { width: 70px; height: 70px; }
+
+.note-popup__main { width: 100%; min-height: 150px; resize: none; padding-top: 5px; padding-bottom: 5px; font-family: 'PT Serif'; color: #adb5bd; font-size: 14px; line-height: 21px; }

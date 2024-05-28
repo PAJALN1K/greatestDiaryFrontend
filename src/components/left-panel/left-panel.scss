@@ -1,0 +1,27 @@
+.left-panel {
+    height: 100%;
+    width: 3%;
+    background-color: #0B0C0C;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+    &__container {
+        height: 91%;
+
+        margin-bottom: 20px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

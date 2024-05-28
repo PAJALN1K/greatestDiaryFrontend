@@ -1,0 +1,11 @@
+.registration { display: flex; flex-direction: column; justify-content: center; align-items: center; }
+
+.registration__form { display: flex; flex-direction: column; }
+
+.registration__name-label { color: #e9eaec; font-size: 20px; line-height: 27px; }
+
+.registration__input { box-sizing: border-box; width: 450px; height: 45px; padding-left: 15px; border: 1px solid #111; border-radius: 5px; background-color: #fff; color: #111; font-family: 'Merriweather'; font-size: 16px; vertical-align: middle; transition: border 0.2s; /* margin-bottom: 15px; */ }
+
+.registration__input::placeholder { color: #888; font-family: 'Merriweather'; }
+
+.registration__input:focus { border: 1px solid #B41818; outline: 2px solid #B41818; }

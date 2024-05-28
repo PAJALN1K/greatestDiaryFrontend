@@ -1,0 +1,16 @@
+.category {
+    width: 90%;
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+
+    &_notes {
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    &_account {
+        justify-content: space-between;
+    }
+}

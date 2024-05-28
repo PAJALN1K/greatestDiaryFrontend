@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Записи — Greatest Diary</title>
+        <meta charset="utf-8">
+        <meta name="language" content="RU">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../../public/stylesheets/style.css">
+        <link rel="icon" href="../components/common/logo/img/logo__img.ico">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+        </style>
+    </head>
+    <body>
+        <div class="greatest-diary-page">
+            <div class="left-panel">
+                <div class="left-panel__container">
+                    <div class="left-panel__row">
+                        <nav class="website-menu left-panel__website-menu">
+                            <ul class="website-menu__list">
+                                <li class="website-menu__item">
+                                    <a class="website-menu__link" href="profile.html">
+                                        <svg class="website-menu__img website-menu__img_color_grey noselect">
+                                            <image href="../components/left-panel/website-menu/img/profile_grey.svg" height="100%" width="100%" alt="profile"/>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="website-menu__item">
+                                    <a class="website-menu__link" href="notes-page.html">
+                                        <svg class="website-menu__img website-menu__img_color_grey noselect">
+                                            <image href="../components/left-panel/website-menu/img/notes_grey.svg" height="100%" width="100%" alt="notes"/>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="website-menu__item">
+                                    <a class="website-menu__link" href="habits-page.html">
+                                        <svg class="website-menu__img website-menu__img_color_grey noselect">
+                                            <image href="../components/left-panel/website-menu/img/habits_grey.svg" height="100%" width="100%" alt="habits"/>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="website-menu__item">
+                                    <a class="website-menu__link" href="calendar-page.html">
+                                        <svg class="website-menu__img website-menu__img_color_grey noselect">
+                                            <image href="../components/left-panel/website-menu/img/calendar_grey.svg" height="100%" width="100%" alt="calendar"/>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="website-menu__item">
+                                    <a class="website-menu__link">
+                                        <svg class="website-menu__img website-menu__img_color_grey noselect">
+                                            <image href="../components/left-panel/website-menu/img/search_grey.svg" height="100%" width="100%" alt="search"/>
+                                        </svg>
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="left-panel__row">
+                        <div class="settings">
+                            <a class="settings__link" href="in-development-page.html">
+                                <svg class="settings__img settings__img_color_grey noselect">
+                                    <image href="../components/left-panel/settings/img/settings_grey.svg" height="100%" width="100%" alt="settings"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-panel">
+                <div class="main-panel__container">
+                    <div class="category category_notes">
+                        <div class="notes-container category__notes-container">
+                            <ul class="notes-list category__notes-list">
+                                <div class="note notes-list__note">
+                                    <div class="note__head">
+                                        <img class="note__emoji noselect" src="../components/main-panel/category/notes-list/img/anger.png" alt="anger">
+                                        <div class="note__meta">
+                                            <p class="note__date">Суббота, 25-е мая, 14:40</p>
+                                            <p class="note__location">д. Иваново, ул. Ленина, д. 10</p>
+                                        </div>
+                                    </div>
+                                    <div class="note__main">
+                                        <p>Я настолько обезумел, что решил писать дневник в отдельно созданном собой приложении</p>
+                                        <p>Теперь я официально гигачад</p>
+                                    </div>
+                                </div>
+                                <div class="note notes-list__note">
+                                    <div class="note__head">
+                                        <img class="note__emoji noselect" src="../components/main-panel/category/notes-list/img/joy.png" alt="anger">
+                                        <div class="note__meta">
+                                            <p class="note__date">Воскресенье, 26-е мая, 1:45</p>
+                                            <p class="note__location">д. Иваново, ул. Ленина, д. 10</p>
+                                        </div>
+                                    </div>
+                                    <div class="note__main">
+                                        <p>Я люблю Шамиля</p>
+                                    </div>
+                                </div>
+                            </ul>
+                        </div>
+                        <button class="note-creation-button submit-button" type="button">
+                            <div class="note-creation-button__container">
+                                <svg class="note-creation-button__img noselect">
+                                    <image href="../components/main-panel/category/note-creation-button/img/create-note_black.svg" height="100%" width="100%" alt="create-note"/>
+                                </svg>
+                                <span>Создать заметку</span>
+                            </div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script src="../scripts/notes-page.js"></script>
+</html>

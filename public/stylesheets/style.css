@@ -3,6 +3,15 @@
 @import url(components/abstract/noselect.css);
 @import url(components/abstract/hidden.css);
 @import url(components/abstract/cursor-selection.css);
+@import url(components/left-panel/left-panel.css);
+@import url(components/left-panel/settings/settings.css);
+@import url(components/left-panel/website-menu/website-menu.css);
+@import url(components/main-panel/main-panel.css);
+@import url(components/main-panel/category/category.css);
+@import url(components/main-panel/category/notes-list/notes-list.css);
+@import url(components/main-panel/category/notes-list/note.css);
+@import url(components/main-panel/category/note-creation-button/note-creation-button.css);
+@import url(components/main-panel/category/note-popup/note-popup.css);
 @import url(components/main/main.css);
 @import url(components/main/home/home.css);
 @import url(components/main/home/home-logo.css);
